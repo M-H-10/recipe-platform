@@ -1,1 +1,0 @@
-{"name":"recipe-platform","version":"1.0.0","scripts":{"start":"node backend/server.js","build":"npm install --prefix backend"}} 
